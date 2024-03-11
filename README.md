@@ -14,7 +14,8 @@ Welcome to the Fanta site project! This web application is created using HTML, C
 
 ## Demo
 
-[Your Netlify deployment URL](https://fantawithgsap.netlify.app/)
+
+You can check out the live demo of the Fanta site (https://fantawithgsap.netlify.app/)
 
 ## Features
 
