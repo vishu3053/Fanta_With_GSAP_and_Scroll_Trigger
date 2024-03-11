@@ -11,6 +11,7 @@ Welcome to the Fanta site project! This web application is created using HTML, C
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [License](#LICENSE)
 
 ## Demo
 
@@ -64,5 +65,10 @@ fanta-site/
 ### Contributing
 
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please open an issue or submit a pull request.
-   
+
+
+### LICENSE
+
+This project is licensed under the [MIT License] License - see the LICENSE file for details.
+
   
